@@ -1,0 +1,15 @@
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\bin\Debug\net8.0\Starter.exe
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\bin\Debug\net8.0\Starter.deps.json
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\bin\Debug\net8.0\Starter.dll
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\bin\Debug\net8.0\Starter.pdb
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.dll
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\refint\Starter.dll
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.pdb
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+M:\CSharp\free-code-camp-csharp\GuidedProject_chap3\Starter\obj\Debug\net8.0\ref\Starter.dll
