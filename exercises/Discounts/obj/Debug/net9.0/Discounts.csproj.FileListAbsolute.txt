@@ -1,0 +1,14 @@
+M:\CSharp\chap5\discounts\bin\Debug\net9.0\Discounts.exe
+M:\CSharp\chap5\discounts\bin\Debug\net9.0\Discounts.deps.json
+M:\CSharp\chap5\discounts\bin\Debug\net9.0\Discounts.runtimeconfig.json
+M:\CSharp\chap5\discounts\bin\Debug\net9.0\Discounts.dll
+M:\CSharp\chap5\discounts\bin\Debug\net9.0\Discounts.pdb
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.AssemblyInfoInputs.cache
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.AssemblyInfo.cs
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.dll
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\refint\Discounts.dll
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.pdb
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\Discounts.genruntimeconfig.cache
+M:\CSharp\chap5\discounts\obj\Debug\net9.0\ref\Discounts.dll

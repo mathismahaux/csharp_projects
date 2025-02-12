@@ -1,0 +1,14 @@
+M:\CSharp\idreview\bin\Debug\net9.0\idReview.exe
+M:\CSharp\idreview\bin\Debug\net9.0\idReview.deps.json
+M:\CSharp\idreview\bin\Debug\net9.0\idReview.runtimeconfig.json
+M:\CSharp\idreview\bin\Debug\net9.0\idReview.dll
+M:\CSharp\idreview\bin\Debug\net9.0\idReview.pdb
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.AssemblyInfoInputs.cache
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.AssemblyInfo.cs
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.csproj.CoreCompileInputs.cache
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.dll
+M:\CSharp\idreview\obj\Debug\net9.0\refint\idReview.dll
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.pdb
+M:\CSharp\idreview\obj\Debug\net9.0\idReview.genruntimeconfig.cache
+M:\CSharp\idreview\obj\Debug\net9.0\ref\idReview.dll

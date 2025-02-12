@@ -1,0 +1,14 @@
+M:\CSharp\chap5\reusablemethods\bin\Debug\net9.0\ReusableMethods.exe
+M:\CSharp\chap5\reusablemethods\bin\Debug\net9.0\ReusableMethods.deps.json
+M:\CSharp\chap5\reusablemethods\bin\Debug\net9.0\ReusableMethods.runtimeconfig.json
+M:\CSharp\chap5\reusablemethods\bin\Debug\net9.0\ReusableMethods.dll
+M:\CSharp\chap5\reusablemethods\bin\Debug\net9.0\ReusableMethods.pdb
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.AssemblyInfoInputs.cache
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.AssemblyInfo.cs
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.dll
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\refint\ReusableMethods.dll
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.pdb
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ReusableMethods.genruntimeconfig.cache
+M:\CSharp\chap5\reusablemethods\obj\Debug\net9.0\ref\ReusableMethods.dll

@@ -1,0 +1,14 @@
+M:\CSharp\chap5\ipaddress\bin\Debug\net9.0\IpAddress.exe
+M:\CSharp\chap5\ipaddress\bin\Debug\net9.0\IpAddress.deps.json
+M:\CSharp\chap5\ipaddress\bin\Debug\net9.0\IpAddress.runtimeconfig.json
+M:\CSharp\chap5\ipaddress\bin\Debug\net9.0\IpAddress.dll
+M:\CSharp\chap5\ipaddress\bin\Debug\net9.0\IpAddress.pdb
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.AssemblyInfoInputs.cache
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.AssemblyInfo.cs
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.dll
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\refint\IpAddress.dll
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.pdb
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\IpAddress.genruntimeconfig.cache
+M:\CSharp\chap5\ipaddress\obj\Debug\net9.0\ref\IpAddress.dll

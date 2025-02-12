@@ -1,0 +1,14 @@
+M:\CSharp\chap5\email\bin\Debug\net9.0\Email.exe
+M:\CSharp\chap5\email\bin\Debug\net9.0\Email.deps.json
+M:\CSharp\chap5\email\bin\Debug\net9.0\Email.runtimeconfig.json
+M:\CSharp\chap5\email\bin\Debug\net9.0\Email.dll
+M:\CSharp\chap5\email\bin\Debug\net9.0\Email.pdb
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.AssemblyInfoInputs.cache
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.AssemblyInfo.cs
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.dll
+M:\CSharp\chap5\email\obj\Debug\net9.0\refint\Email.dll
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.pdb
+M:\CSharp\chap5\email\obj\Debug\net9.0\Email.genruntimeconfig.cache
+M:\CSharp\chap5\email\obj\Debug\net9.0\ref\Email.dll

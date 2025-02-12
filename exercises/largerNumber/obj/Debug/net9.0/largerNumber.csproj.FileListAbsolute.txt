@@ -1,0 +1,14 @@
+M:\CSharp\LargerNumber\bin\Debug\net9.0\largerNumber.exe
+M:\CSharp\LargerNumber\bin\Debug\net9.0\largerNumber.deps.json
+M:\CSharp\LargerNumber\bin\Debug\net9.0\largerNumber.runtimeconfig.json
+M:\CSharp\LargerNumber\bin\Debug\net9.0\largerNumber.dll
+M:\CSharp\LargerNumber\bin\Debug\net9.0\largerNumber.pdb
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.AssemblyInfoInputs.cache
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.AssemblyInfo.cs
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.csproj.CoreCompileInputs.cache
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.dll
+M:\CSharp\LargerNumber\obj\Debug\net9.0\refint\largerNumber.dll
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.pdb
+M:\CSharp\LargerNumber\obj\Debug\net9.0\largerNumber.genruntimeconfig.cache
+M:\CSharp\LargerNumber\obj\Debug\net9.0\ref\largerNumber.dll

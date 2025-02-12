@@ -1,0 +1,14 @@
+M:\CSharp\chap5\stringreverser\bin\Debug\net9.0\StringReverser.exe
+M:\CSharp\chap5\stringreverser\bin\Debug\net9.0\StringReverser.deps.json
+M:\CSharp\chap5\stringreverser\bin\Debug\net9.0\StringReverser.runtimeconfig.json
+M:\CSharp\chap5\stringreverser\bin\Debug\net9.0\StringReverser.dll
+M:\CSharp\chap5\stringreverser\bin\Debug\net9.0\StringReverser.pdb
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.AssemblyInfoInputs.cache
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.AssemblyInfo.cs
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.dll
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\refint\StringReverser.dll
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.pdb
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\StringReverser.genruntimeconfig.cache
+M:\CSharp\chap5\stringreverser\obj\Debug\net9.0\ref\StringReverser.dll

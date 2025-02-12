@@ -1,0 +1,14 @@
+M:\CSharp\chap5\randomnumbers\bin\Debug\net9.0\RandomNumbers.exe
+M:\CSharp\chap5\randomnumbers\bin\Debug\net9.0\RandomNumbers.deps.json
+M:\CSharp\chap5\randomnumbers\bin\Debug\net9.0\RandomNumbers.runtimeconfig.json
+M:\CSharp\chap5\randomnumbers\bin\Debug\net9.0\RandomNumbers.dll
+M:\CSharp\chap5\randomnumbers\bin\Debug\net9.0\RandomNumbers.pdb
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.AssemblyInfoInputs.cache
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.AssemblyInfo.cs
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.dll
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\refint\RandomNumbers.dll
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.pdb
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\RandomNumbers.genruntimeconfig.cache
+M:\CSharp\chap5\randomnumbers\obj\Debug\net9.0\ref\RandomNumbers.dll

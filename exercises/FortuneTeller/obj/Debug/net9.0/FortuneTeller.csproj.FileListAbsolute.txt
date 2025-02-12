@@ -1,0 +1,14 @@
+M:\CSharp\chap5\fortuneteller\bin\Debug\net9.0\FortuneTeller.exe
+M:\CSharp\chap5\fortuneteller\bin\Debug\net9.0\FortuneTeller.deps.json
+M:\CSharp\chap5\fortuneteller\bin\Debug\net9.0\FortuneTeller.runtimeconfig.json
+M:\CSharp\chap5\fortuneteller\bin\Debug\net9.0\FortuneTeller.dll
+M:\CSharp\chap5\fortuneteller\bin\Debug\net9.0\FortuneTeller.pdb
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.AssemblyInfoInputs.cache
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.AssemblyInfo.cs
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.dll
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\refint\FortuneTeller.dll
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.pdb
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\FortuneTeller.genruntimeconfig.cache
+M:\CSharp\chap5\fortuneteller\obj\Debug\net9.0\ref\FortuneTeller.dll
