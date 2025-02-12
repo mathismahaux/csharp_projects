@@ -1,0 +1,14 @@
+M:\CSharp\orderIdGenerator\bin\Debug\net9.0\orderIdGenerator.exe
+M:\CSharp\orderIdGenerator\bin\Debug\net9.0\orderIdGenerator.deps.json
+M:\CSharp\orderIdGenerator\bin\Debug\net9.0\orderIdGenerator.runtimeconfig.json
+M:\CSharp\orderIdGenerator\bin\Debug\net9.0\orderIdGenerator.dll
+M:\CSharp\orderIdGenerator\bin\Debug\net9.0\orderIdGenerator.pdb
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.AssemblyInfoInputs.cache
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.AssemblyInfo.cs
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.csproj.CoreCompileInputs.cache
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.dll
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\refint\orderIdGenerator.dll
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.pdb
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\orderIdGenerator.genruntimeconfig.cache
+M:\CSharp\orderIdGenerator\obj\Debug\net9.0\ref\orderIdGenerator.dll

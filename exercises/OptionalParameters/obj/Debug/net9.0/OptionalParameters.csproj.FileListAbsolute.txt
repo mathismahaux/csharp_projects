@@ -1,0 +1,14 @@
+M:\CSharp\chap5\optionalparameters\bin\Debug\net9.0\OptionalParameters.exe
+M:\CSharp\chap5\optionalparameters\bin\Debug\net9.0\OptionalParameters.deps.json
+M:\CSharp\chap5\optionalparameters\bin\Debug\net9.0\OptionalParameters.runtimeconfig.json
+M:\CSharp\chap5\optionalparameters\bin\Debug\net9.0\OptionalParameters.dll
+M:\CSharp\chap5\optionalparameters\bin\Debug\net9.0\OptionalParameters.pdb
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.AssemblyInfoInputs.cache
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.AssemblyInfo.cs
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.dll
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\refint\OptionalParameters.dll
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.pdb
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\OptionalParameters.genruntimeconfig.cache
+M:\CSharp\chap5\optionalparameters\obj\Debug\net9.0\ref\OptionalParameters.dll

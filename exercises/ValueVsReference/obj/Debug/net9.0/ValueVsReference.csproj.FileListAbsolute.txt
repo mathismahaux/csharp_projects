@@ -1,0 +1,14 @@
+M:\CSharp\chap5\valuevsreference\bin\Debug\net9.0\ValueVsReference.exe
+M:\CSharp\chap5\valuevsreference\bin\Debug\net9.0\ValueVsReference.deps.json
+M:\CSharp\chap5\valuevsreference\bin\Debug\net9.0\ValueVsReference.runtimeconfig.json
+M:\CSharp\chap5\valuevsreference\bin\Debug\net9.0\ValueVsReference.dll
+M:\CSharp\chap5\valuevsreference\bin\Debug\net9.0\ValueVsReference.pdb
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.AssemblyInfoInputs.cache
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.AssemblyInfo.cs
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.dll
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\refint\ValueVsReference.dll
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.pdb
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ValueVsReference.genruntimeconfig.cache
+M:\CSharp\chap5\valuevsreference\obj\Debug\net9.0\ref\ValueVsReference.dll

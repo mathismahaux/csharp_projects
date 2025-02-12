@@ -1,0 +1,14 @@
+M:\CSharp\chap5\timeadjuster\bin\Debug\net9.0\TimeAdjuster.exe
+M:\CSharp\chap5\timeadjuster\bin\Debug\net9.0\TimeAdjuster.deps.json
+M:\CSharp\chap5\timeadjuster\bin\Debug\net9.0\TimeAdjuster.runtimeconfig.json
+M:\CSharp\chap5\timeadjuster\bin\Debug\net9.0\TimeAdjuster.dll
+M:\CSharp\chap5\timeadjuster\bin\Debug\net9.0\TimeAdjuster.pdb
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.AssemblyInfoInputs.cache
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.AssemblyInfo.cs
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.dll
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\refint\TimeAdjuster.dll
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.pdb
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\TimeAdjuster.genruntimeconfig.cache
+M:\CSharp\chap5\timeadjuster\obj\Debug\net9.0\ref\TimeAdjuster.dll

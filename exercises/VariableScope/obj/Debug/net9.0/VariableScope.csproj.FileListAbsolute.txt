@@ -1,0 +1,14 @@
+M:\CSharp\chap5\variablescope\bin\Debug\net9.0\VariableScope.exe
+M:\CSharp\chap5\variablescope\bin\Debug\net9.0\VariableScope.deps.json
+M:\CSharp\chap5\variablescope\bin\Debug\net9.0\VariableScope.runtimeconfig.json
+M:\CSharp\chap5\variablescope\bin\Debug\net9.0\VariableScope.dll
+M:\CSharp\chap5\variablescope\bin\Debug\net9.0\VariableScope.pdb
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.AssemblyInfoInputs.cache
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.AssemblyInfo.cs
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.csproj.CoreCompileInputs.cache
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.dll
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\refint\VariableScope.dll
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.pdb
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\VariableScope.genruntimeconfig.cache
+M:\CSharp\chap5\variablescope\obj\Debug\net9.0\ref\VariableScope.dll

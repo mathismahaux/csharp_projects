@@ -1,0 +1,14 @@
+M:\CSharp\arrays\bin\Debug\net9.0\arrays.exe
+M:\CSharp\arrays\bin\Debug\net9.0\arrays.deps.json
+M:\CSharp\arrays\bin\Debug\net9.0\arrays.runtimeconfig.json
+M:\CSharp\arrays\bin\Debug\net9.0\arrays.dll
+M:\CSharp\arrays\bin\Debug\net9.0\arrays.pdb
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.AssemblyInfoInputs.cache
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.AssemblyInfo.cs
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.csproj.CoreCompileInputs.cache
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.dll
+M:\CSharp\arrays\obj\Debug\net9.0\refint\arrays.dll
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.pdb
+M:\CSharp\arrays\obj\Debug\net9.0\arrays.genruntimeconfig.cache
+M:\CSharp\arrays\obj\Debug\net9.0\ref\arrays.dll
