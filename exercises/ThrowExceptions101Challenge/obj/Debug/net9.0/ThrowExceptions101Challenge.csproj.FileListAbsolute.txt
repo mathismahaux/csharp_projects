@@ -1,0 +1,15 @@
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\bin\Debug\net9.0\ThrowExceptions101Challenge.exe
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\bin\Debug\net9.0\ThrowExceptions101Challenge.deps.json
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\bin\Debug\net9.0\ThrowExceptions101Challenge.runtimeconfig.json
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\bin\Debug\net9.0\ThrowExceptions101Challenge.dll
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\bin\Debug\net9.0\ThrowExceptions101Challenge.pdb
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.AssemblyInfoInputs.cache
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.AssemblyInfo.cs
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.csproj.CoreCompileInputs.cache
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.sourcelink.json
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.dll
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\refint\ThrowExceptions101Challenge.dll
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.pdb
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ThrowExceptions101Challenge.genruntimeconfig.cache
+M:\CSharp\free-code-camp-csharp\exercises\ThrowExceptions101Challenge\obj\Debug\net9.0\ref\ThrowExceptions101Challenge.dll

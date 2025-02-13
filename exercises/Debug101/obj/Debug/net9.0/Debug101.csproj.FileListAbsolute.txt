@@ -1,0 +1,15 @@
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\bin\Debug\net9.0\Debug101.exe
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\bin\Debug\net9.0\Debug101.deps.json
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\bin\Debug\net9.0\Debug101.runtimeconfig.json
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\bin\Debug\net9.0\Debug101.dll
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\bin\Debug\net9.0\Debug101.pdb
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.AssemblyInfoInputs.cache
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.AssemblyInfo.cs
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.csproj.CoreCompileInputs.cache
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.sourcelink.json
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.dll
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\refint\Debug101.dll
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.pdb
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\Debug101.genruntimeconfig.cache
+M:\CSharp\free-code-camp-csharp\exercises\Debug101\obj\Debug\net9.0\ref\Debug101.dll
