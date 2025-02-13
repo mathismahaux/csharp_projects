@@ -115,3 +115,116 @@
 // My name is {name} and I'm {age} years old.
 
 // Answer: My name is Alice and I'm 25 years old.
+
+
+// 11. Which of the following options represents the correct way to calculate the remainder of dividing two integers?
+
+// x % y
+// x % (y-1)
+// x.Remainder(y)
+// Math.Remainder(x, y)
+// x.RemainderOf(y)
+
+// Answer: x % y
+
+
+// 12. How do you exit a for loop before its completion?
+
+// skip;
+// exit;
+// break;
+// stop;
+// return;
+
+// Answer: break;
+
+
+// 13. What is the purpose of a code block?
+
+// To define namespaces
+// To define method parameters
+// To create graphical user interfaces
+// To group statements together and control their scope
+// To declare and initialize variables
+
+// Answer: To group statements together and control their scope
+
+
+// 14. Which operator is used for assignment?
+
+// :=
+// =
+// -
+// *
+// <>
+
+// Answer: =
+
+
+// 15. What is the purpose of the for statement?
+
+// To write comments in code
+// To define a method
+// To execute a block of code repeatedly
+// To handle exceptions
+// To perform mathematical calculations
+
+// Answer: To execute a block of code repeatedly
+
+
+// 16. What is the purpose of debugging in software development?
+
+// Debugging is a technique to encrypt the code and protect it from unauthorized access
+// Debuggig is used to generate documentation for the code
+// Debugging is a method to optimize the code for better performance
+// Debugging is the process of identifying and resolving errors, bugs and issues in the code
+// Debugging is the process of compiling the code to machine language
+
+// Answer: Debugging is the process of identifying and resolving errors, bugs and issues in the code
+
+
+// 17. How do you define a method with multiple parameters?
+
+// Specify the parameters separated by commas
+// Separate the parameters with the "and" keyword
+// Declare each parameter on a new line
+// Use semi-colons to separate the parameters
+// Enclose the parameters in square brackets
+
+// Answer: Specify the parameters separated by commas
+
+
+// 18. Hw do you specify the default case in a switch statement?
+
+// case default:
+// case "default":
+// default:
+// case else:
+// case:
+
+// Answer: default:
+
+
+// 19. What is the main purpose of using comments in the code?
+
+// To prevent others from accessing the code
+// To improve the performance of the code
+// To provide explanations and documentation for the code
+// To indicate errors in the code
+// To execute certain sections of code
+
+// Answer: To provide explanations and documentation for the code
+
+
+// 20. What is the value of the boolean expression: !(true && false)?
+
+// "true"
+// true
+// false
+// "false"
+// null
+
+// Answer: true
+
+
+
