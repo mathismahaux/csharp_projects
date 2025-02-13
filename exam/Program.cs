@@ -227,4 +227,109 @@
 // Answer: true
 
 
+// 21. How do you catch a thrown exception in a calling code?
 
+// Use the catch(Exception e) block
+// Use the catch (CustomException e) block
+// Use the OnException event handler
+// Use the try-catch block and specify the appropriate type to catch
+// Use the HandleException() method
+
+// Answer: Use the catch(Exception e) block
+
+
+// 22. What is the syntax to access the element at index 3 in an array named "numbers"?
+
+// numbers{3}
+// numbers.getElement(3)
+// numbers.get(3)
+// numbers.at(3)
+// numbers[3]
+
+// Answer: numbers[3]
+
+
+// 23. How do you pass a value to a method parameter?
+
+// Use the val keyword before the value
+// Use the in keyword before the value
+// Provide the value as an argument when calling the method
+// Use the out keyword before the value
+// Use the pass keyword before the value
+
+// Answer: Provide the value as an argument when calling the method
+
+
+// 24. What is the purpose of throwing an exception?
+
+// To suppress errors messages
+// To indicate that an error or exceptional condition has occurred
+// To handle normal program flow
+// To ignore errors and continue program execution
+// To enhance code readability
+
+// Answer: To indicate that an error or exceptional condition has occurred
+
+
+// 25. What is the primary job of the C# compiler?
+
+// To manage memory in the program
+// To translate C# code into executable code
+// To execute the program
+// To provide an integrated development environment
+// To optimize the program
+
+// Answer: To translate C# code into executable code
+
+
+// 26. What is the purpose of a return statement in a method?
+
+// Initialize variables
+// Return a value
+// Terminate the method execution
+// Execute a loop
+// Clear memory resources
+
+// Answer: Return a value
+
+
+// 27. How do you find the length of an array named "employees"?
+
+// employees.count()
+// employees.Length
+// employees.size()
+// employees.length()
+// employees.length
+
+// Answer: employees.Length
+
+
+// 28. What is the difference between a compile-time error and a runtime error?
+
+// A compile-time error is caused by hardware issues, while a runtime error is caused by software conflicts
+// A compile-time error is a fatal error that crashes the program, while a runtime error allows the program to continue execution
+// A compile-time error occurs when the program is executed, while a runtime error occurs during the compilation process
+// A compile-time error is easier to fix than a runtime error
+// A compile-time error is caused by incorrect syntax, while a runtime error is caused by logical errors or exceptional conditions
+
+// Answer: A compile-time error is caused by incorrect syntax, while a runtime error is caused by logical errors or exceptional conditions
+
+
+// 29. What is the purpose of try-catch blocks?
+
+// To prevent errors from occuring
+// To handle and manage exceptions
+// To validate user input
+// To define custom exception classes
+// To handle successful execution of code
+
+// Answer: To handle and manage exceptions
+
+
+// 30. How do you define a code block?
+
+// Using the code keyword
+// Using the start and end keywords
+// Using the block keyword
+// Using curly braces { }
+// Using indentation without any specific keywords
