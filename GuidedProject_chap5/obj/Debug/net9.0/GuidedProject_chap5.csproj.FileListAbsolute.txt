@@ -1,0 +1,15 @@
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\bin\Debug\net9.0\GuidedProject_chap5.exe
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\bin\Debug\net9.0\GuidedProject_chap5.deps.json
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\bin\Debug\net9.0\GuidedProject_chap5.runtimeconfig.json
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\bin\Debug\net9.0\GuidedProject_chap5.dll
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\bin\Debug\net9.0\GuidedProject_chap5.pdb
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.GeneratedMSBuildEditorConfig.editorconfig
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.AssemblyInfoInputs.cache
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.AssemblyInfo.cs
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.csproj.CoreCompileInputs.cache
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.sourcelink.json
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.dll
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\refint\GuidedProject_chap5.dll
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.pdb
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\GuidedProject_chap5.genruntimeconfig.cache
+M:\CSharp\free-code-camp-csharp\guidedproject_chap5\obj\Debug\net9.0\ref\GuidedProject_chap5.dll
