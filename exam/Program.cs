@@ -720,3 +720,121 @@ switch (option)
 // It is used to perform arithmetic operations
 
 // Answer: It is used to provide a shorter alias for a namespace
+
+
+// 61. How do you open the integrated terminal in Visual Studio Code?
+
+// Press the F1 key and type "Open Terminal"
+// Click on the output tab and select "Terminal"
+// Click "Terminal" and select "New Terminal"
+// Right click on the editor and select "Open Terminal"
+// Navigate to the  "View" menu and select "Terminal"
+
+// Answer: Click "Terminal" and select "New Terminal"
+
+
+// 62. What is the purpose of the IndexOf method in the String class?
+
+// It retrieves the index of a specified character in the string
+// It returns the last occurence of a character in the string
+// It replaces a specified character with another character in the string
+// It returns the length of the string
+// It checks if a string contains a specified substring
+
+// Answer: It retrieves the index of a specified character in the string
+
+
+// 63. What is a method?
+
+// A loop construct
+// A variable declaration
+// A comment
+// A sequence of code statements
+// A data type
+
+// Answer: A sequence of code statements
+
+
+// 64. What is the output of the following code snippet?
+
+/*
+int x = 5;
+int y = 3;
+int result = x + y;
+Console.WriteLine(result);
+*/
+
+// 8
+// 53
+//The code will result in an error
+// 35
+// 2
+
+// Answer: 8
+
+
+// 65. What is the difference between the do-while and while statements?
+
+// The do-while statement is executed at least once, while the while statement may not be executed at all
+// The while statement is used for looping, while the do-while statement is used for conditional checks
+// The while statement is followed by a condition in parentheses, while the do-while statement is followed by a colon
+// The while statement allows multiple conditions to be checked, while the do-while statement allows only one condition
+// The do-while statement requires an initialization step while the while statement does not
+
+// Answer: The do-while statement is executed at least once, while the while statement may not be executed at all
+
+
+// 66. Which comparison operator is used to check for equality?
+
+// ==
+// <=
+// <
+// >=
+// !=
+
+// Answer: ==
+
+
+// 67. Which method is used to concatenate strings?
+
+// Concat()
+// Merge()
+// Append()
+// Combine()
+// Add()
+
+// Answer: Concat()
+
+
+// 68. How do you terminate a case block in a switch statement?
+
+// stop;
+// exit;
+// continue;
+// end;
+// break;
+
+// Answer: break;
+
+
+// 69. How do you sort the elements of an array in ascending order?
+
+// arrayName.sort()
+// sort(arrayName, ascending)
+// sortArrayAscending(arrayName)
+// Array.Sort(arrayName)
+// arrayName.sortAscending()
+
+// Answer: Array.Sort(arrayName)
+
+
+// 70. Which of the following will display "Hello World" in the console?
+
+// Console.Write("Hello World");
+// Console.WriteLine("Hello World");
+// WriteLine("Hello World");
+// print("Hello World");
+// Console.print("Hello World");
+
+// Answer: Console.WriteLine("Hello World");
+
