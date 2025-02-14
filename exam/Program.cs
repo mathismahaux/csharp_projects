@@ -491,3 +491,111 @@ switch (option)
 // Answer: count += 2;
 
 
+// 41. How do you remove leading and trailing whitespace from a string?
+
+// string.Trim();
+// string.ClearWhitespace();
+// string.Clean();
+// string.RemoveWhitespace();
+// string.StripWhitespace();
+
+// Answer: string.Trim();
+
+
+// 42. What is the result of the operation 5 / 2?
+
+// 2.0
+// 2
+// 3.5
+// 2.2
+// 2.25
+
+// Answer: 2
+
+
+// 43. What is the correct syntax to declare a variable named count of type integer?
+
+// var count = int;
+// int count;
+// count = int;
+// variable count = int;
+// declare count as integer;
+
+// Answer: int count;
+
+
+// 44. How to convert a string variable to an integer?
+
+// variable.ToInt32();
+// (int)variable;
+// int.Parse(variable);
+// int.TryParse(variable);
+// Convert.ToInt32(variable);
+
+// Answer: int.Parse(variable);
+
+
+// 45. What are parameters in a method?
+
+// Variables used within the method body.
+// Reserved keywords in C#.
+// Definitions for inputs or arguments passed to the method.
+// Special characters used for string manipulation.
+// Constants defined in the method declaration.
+
+// Answer: Definitions for inputs or arguments passed to the method.
+
+
+// 46. What is the method used to change the case of a string to uppercase?
+
+// string.ToUpper();
+// string.TransformUpper();
+// string.Upper();
+// string.ChangeCaseUpper();
+// string.CaseUpper();
+
+// Answer: string.ToUpper();
+
+
+// 47. How do you handle an exception using a catch block?
+
+// catch (Exception e) { }
+// handle (Exception e) { }
+// using (catch)
+// try {} except(Exception e) {}
+// catch (var e) { }
+
+// Answer: catch (Exception e) { }
+
+
+// 48. What is the syntax of an else if statement?
+
+// else-if (condition)
+// else if (condition)
+// elsif (condition)
+// elseif (condition)
+// else_if (condition)
+
+// Answer: else if (condition)
+
+
+// 49. How do you align a numeric value to the right within a specifies width?
+
+// format(value, width)
+// right-align(value, width)
+// align-right(value, width)
+// value.ToString().PadLeft(width)
+// pad_left(value, width)
+
+// Answer: value.ToString().PadLeft(width)
+
+
+// 50. How do you format a date value to display only the month and year?
+
+// date.ToString("dd/yyyy")
+// date.ToString("MM/yyyy")
+// date.ToString("yyyy/MM")
+// date.ToString("mm/yyyy")
+// date.ToString("DD/yyyy")
+
+// Answer: date.ToString("MM/yyyy")
