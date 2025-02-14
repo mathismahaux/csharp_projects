@@ -667,7 +667,7 @@ switch (option)
 // Answer: The loop is skipped entirely
 
 
-// 56. How do you check if a conversion between two data types is possible?
+// 57. How do you check if a conversion between two data types is possible?
 
 // Use the GetType() method to compare the types
 // Use the CompareTo() method to compare the types
@@ -678,7 +678,7 @@ switch (option)
 // Answer: Use the typeof keyword to compare the types
 
 
-// 57. How do you check if two variables are not equal in an if statement?
+// 58. How do you check if two variables are not equal in an if statement?
 
 // if(variable1 <> variable2)
 // if(variable1 >< variable2)
@@ -689,7 +689,7 @@ switch (option)
 // Answer: if(variable1 != variable2)
 
 
-// 58. How to convert a variable named "x" of type double to an integer?
+// 59. How to convert a variable named "x" of type double to an integer?
 
 // int.Convert(x);
 // Convert.ToInt(x);
@@ -700,7 +700,7 @@ switch (option)
 // Answer: (int)x;
 
 
-// 59. Which of the following represents the correct way to declare the entry point for a C# program?
+// 60. Which of the following represents the correct way to declare the entry point for a C# program?
 
 // void Main(string[] args)
 // static void Main(string[] args)
@@ -711,7 +711,7 @@ switch (option)
 // Answer: public static void Main(string[] args)
 
 
-// 60. What is the purpose of the using directive?
+// 61. What is the purpose of the using directive?
 
 // It is used to create classes
 // It is used to provide a shorter alias for a namespace
@@ -722,7 +722,7 @@ switch (option)
 // Answer: It is used to provide a shorter alias for a namespace
 
 
-// 61. How do you open the integrated terminal in Visual Studio Code?
+// 62. How do you open the integrated terminal in Visual Studio Code?
 
 // Press the F1 key and type "Open Terminal"
 // Click on the output tab and select "Terminal"
@@ -733,7 +733,7 @@ switch (option)
 // Answer: Click "Terminal" and select "New Terminal"
 
 
-// 62. What is the purpose of the IndexOf method in the String class?
+// 63. What is the purpose of the IndexOf method in the String class?
 
 // It retrieves the index of a specified character in the string
 // It returns the last occurence of a character in the string
@@ -744,7 +744,7 @@ switch (option)
 // Answer: It retrieves the index of a specified character in the string
 
 
-// 63. What is a method?
+// 64. What is a method?
 
 // A loop construct
 // A variable declaration
@@ -755,7 +755,7 @@ switch (option)
 // Answer: A sequence of code statements
 
 
-// 64. What is the output of the following code snippet?
+// 65. What is the output of the following code snippet?
 
 /*
 int x = 5;
@@ -773,7 +773,7 @@ Console.WriteLine(result);
 // Answer: 8
 
 
-// 65. What is the difference between the do-while and while statements?
+// 66. What is the difference between the do-while and while statements?
 
 // The do-while statement is executed at least once, while the while statement may not be executed at all
 // The while statement is used for looping, while the do-while statement is used for conditional checks
@@ -784,7 +784,7 @@ Console.WriteLine(result);
 // Answer: The do-while statement is executed at least once, while the while statement may not be executed at all
 
 
-// 66. Which comparison operator is used to check for equality?
+// 67. Which comparison operator is used to check for equality?
 
 // ==
 // <=
@@ -795,7 +795,7 @@ Console.WriteLine(result);
 // Answer: ==
 
 
-// 67. Which method is used to concatenate strings?
+// 68. Which method is used to concatenate strings?
 
 // Concat()
 // Merge()
@@ -806,7 +806,7 @@ Console.WriteLine(result);
 // Answer: Concat()
 
 
-// 68. How do you terminate a case block in a switch statement?
+// 69. How do you terminate a case block in a switch statement?
 
 // stop;
 // exit;
@@ -817,7 +817,7 @@ Console.WriteLine(result);
 // Answer: break;
 
 
-// 69. How do you sort the elements of an array in ascending order?
+// 70. How do you sort the elements of an array in ascending order?
 
 // arrayName.sort()
 // sort(arrayName, ascending)
@@ -828,7 +828,7 @@ Console.WriteLine(result);
 // Answer: Array.Sort(arrayName)
 
 
-// 70. Which of the following will display "Hello World" in the console?
+// 71. Which of the following will display "Hello World" in the console?
 
 // Console.Write("Hello World");
 // Console.WriteLine("Hello World");
@@ -838,3 +838,108 @@ Console.WriteLine(result);
 
 // Answer: Console.WriteLine("Hello World");
 
+
+// 72. Given the following code snippet, what is the purpose of the parameter name in the method GreetUser()?
+
+/*
+public void GreetUser(string name)
+{
+    Console.WriteLine("Hello, " + name + "!");
+}
+*/
+
+// The parameter name is not used in the method
+// The parameter name is used to pass a string value to the method
+// The parameter name is used to createan instance of the class
+// The parameter name is used to store a boolean value
+// The parameter name is used to specify the number of times the mehod should be executed
+
+// Answer: The parameter name is used to pass a string value to the method
+
+
+// 73. What is the role of the .NET Class Library?
+
+// It is a collection of predefined classes, interfaces and value types
+// It is used for storing and managing databases
+// It is a tool for debugging and profiling code
+// It is responsible for executing code on the server side
+// It is responsible for connecting C# applications to external APIs
+
+// Answer: It is a collection of predefined classes, interfaces and value types
+
+
+// 74. What is the default value of an uninitialized variable of type string? 
+
+// 0
+// "undefined"
+// null
+// ""
+// "NaN"
+
+// Answer: null
+
+
+// 75. What happens if you declare a return type in a method but do not return a value?
+
+// The return type defaults to void
+// The method automatically returns null
+// The program crashes
+// A compiler error is thrown
+// The program enters an infinite loop
+
+// Answer: A compiler error is thrown
+
+
+// 76. How do you specify the condition for a while loop?
+
+// while {condition} { ... }
+// while (condition) { ... }
+// while condition { ... }
+// while (condition) [ ... ]
+// while { ... } condition
+
+// Answer: while (condition) { ... }
+
+
+// 77. How do you create à new C# project in Visual Studio Code?
+
+// Open the integrated terminal and use the command-line interface (CLI) to create a new project using the dotnet new command
+// Right-click on the editor and select "New Project"
+// Select "New Project" from the "Help" menu
+// Press the "F1" key and type "New Project"
+// Go to the "File" menu and select "New Project"
+
+// Answer: Open the integrated terminal and use the command-line interface (CLI) to create a new project using the dotnet new command
+
+
+// 78. What is the difference between the throw and throw ex statements?
+
+// throw ex can only be used in try-catch blocks, while throw can be used anywhere
+// throw ex is used for checked exceptions, while throw is used for unchecked exceptions
+// throw ex requires explicit exception handling, while throw does not
+// throw ex loses the original stack trace, while throw preserves it
+// throw ex rethrows the exception, while throw creates a new exception
+
+// Answer: throw ex rethrows the exception, while throw creates a new exception
+
+
+// 79. How do you define a method in C#?
+
+// methodName(parameters) -> { ... }
+// methodName(parameters) { ... }
+// void methodName(parameters) => { ... }
+// returnType methodName(parameters) { ... }
+// methodName(parameters) => { ... }
+
+// Answer: returnType methodName(parameters) { ... }
+
+
+// 80. What is the purpose of conditional statements?
+
+// Control the flow of the program
+// Define variable types
+// Load external libraries
+// Create graphical user interfaces
+// Display error messages
+
+// Answer: Control the flow of the program
