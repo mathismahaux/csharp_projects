@@ -333,3 +333,161 @@
 // Using the block keyword
 // Using curly braces { }
 // Using indentation without any specific keywords
+
+// Answer: Using curly braces { }
+
+
+// 31. How do you catch multiple types of exceptions in a single catch block?
+
+// catch (ExceptionType1, ExceptionType2 exception)
+// catch (ExceptionType1 || ExceptionType2 exception)
+// catch (ExceptionType1 exception, ExceptionType2 exception)
+// catch (ExceptionType1 && ExceptionType2 exception)
+// catch (ExceptionType1 exception) when (exception is ExceptionType2)
+
+// catch (ExceptionType1 exception, ExceptionType2 exception)
+
+
+// 32. How do you terminate a do-while loop?
+
+// Use the terminate keyword
+// Use the break statement
+// Use the end keyword
+// Invoke the stop method
+// Call the continue statement
+
+// Answer: Use the break statement
+
+
+// 33. What is the purpose of the "Watch" window in Visual Studio Code debugging?
+
+// It allows you to modify the value of variables during debugging
+// It allows you to add bookmarks to specific lines of the code
+// It shows the call stack of function calls during debugging
+// It provides a summary of program performance metrics
+// It shows the values of variables and expressions during debugging
+
+// Answer: It shows the values of variables and expressions during debugging
+
+
+// 34. How do you convert a numeric value to a string with a specific number of decimal places?
+
+// value.ToString("0.##")
+// value.ToString("0.0#")
+// value.ToString("0.000")
+// value.ToString("0.#")
+// value.ToString("0.00")
+
+// Answer: value.ToString("0.##")
+
+
+// 35. What wil be the output of the following code snippet?
+
+// for(int i = 1; i <= 5; i++)
+// {
+//     Console.WriteLine(i);
+// }
+
+// Nothing will be output
+/*
+1
+2
+3
+4
+*/
+/*
+0
+1
+2
+3
+4
+*/
+/*
+0
+1
+2
+3
+4
+5
+*/
+// A compiler error
+
+// Answer: 1 2 3 4
+
+
+// 36. How do you compare a variable named option against multiple values in a switch statement?
+
+// switch(option == [value1, value2, value3])
+// switch(option = [value1, value2, value3])
+/*
+switch (option)
+{
+    case value1:
+    case value2:
+    case value3:
+        break;
+    default:
+        break;
+}
+*/
+// switch (option = value1 | value2 | value3)
+// switch (option = value1, value2, value3)
+
+// Answer:
+/*
+switch (option)
+{
+    case value1:
+    case value2:
+    case value3:
+        break;
+    default:
+        break;
+}
+*/
+
+
+// 37. How do you pass arguments to a method?
+
+// Enclose arguments in angle brackets < >
+// Enclose arguments in curly braces { }
+// Enclose arguments in parentheses ( )
+// Separate arguments with a semicolon ;
+// Enclose arguments in square brackets [ ]
+
+// Answer: Enclose arguments in parentheses ( )
+
+
+// 38. How do you write an if statement?
+
+// if <condition>
+// if !condition
+// if [condition]
+// if {condition}
+// if (condition)
+
+// Answer: if (condition)
+
+
+// 39. How do you install extensions in Visual Studio Code?
+
+// Ctrl + E
+// Select "Extensions" from the "Help" menu
+// Click on the square icon on the left sidebar or press Ctrl + Shift + X
+// Navigate to the "Go" menu and select "Extensions"
+// Press the F2 key and type "Install Extensions"
+
+// Answer: Click on the square icon on the left sidebar or press Ctrl + Shift + X
+
+
+// 40. How do you increment a variable named count by 2 in a for loop?
+
+// count = count - 2;
+// count += 2;
+// count = count / 2;
+// count ++2;
+// count++;
+
+// Answer: count += 2;
+
+
