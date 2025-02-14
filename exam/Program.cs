@@ -599,3 +599,124 @@ switch (option)
 // date.ToString("DD/yyyy")
 
 // Answer: date.ToString("MM/yyyy")
+
+
+// 51. Which data type should be used to represent a monetary value with decimal places?
+
+// int
+// long
+// float
+// decimal
+// string
+
+// Answer: decimal
+
+
+// 52. How to you access the value at index 2 of an array named numbers?
+
+// numbers[2]
+// numbers(2)
+// numbers#2
+// numbers|2|
+// numbers@(2)
+
+// Answer: numbers[2]
+
+
+// 53. What is the role of exception handling?
+
+// Exception handling is used to automatically fix errors in the code
+// Exception handling is used to terminate the program when an error occurs
+// Exception handling is used to bypass security measures in the code
+// Exception handling is used to hide error messages from the user
+// Exception handling is used to catch and handle exceptions to prevent program crashes
+
+// Answer: Exception handling is used to catch and handle exceptions to prevent program crashes
+
+
+// 54. How do you call a method from the Main method and capture its returned value?
+
+// result = methodName();
+// Main.methodName();
+// methodName;
+// return methodName();
+// methodName();
+
+// Answer: result = methodName();
+
+
+// 55. What is the recommended data type to store a single character?
+
+// char[]
+// char
+// double
+// float
+// string
+
+// Answer: char
+
+
+// 56. What happens if the conditio of a while loop is initially false?
+
+// The loop executes indefinitely
+// An error is thrown by the compiler
+// The loop waits for the condition to become true
+// The loop is skipped entirely
+// The loop executes backwards
+
+// Answer: The loop is skipped entirely
+
+
+// 56. How do you check if a conversion between two data types is possible?
+
+// Use the GetType() method to compare the types
+// Use the CompareTo() method to compare the types
+// Use the is keyword to check if the object is of a specific type
+// Use the typeof keyword to compare the types
+// Use the GetTypeCode method to get the type code of the object
+
+// Answer: Use the typeof keyword to compare the types
+
+
+// 57. How do you check if two variables are not equal in an if statement?
+
+// if(variable1 <> variable2)
+// if(variable1 >< variable2)
+// if(variable1 !== variable2)
+// if(variable1 neg variable2)
+// if(variable1 != variable2)
+
+// Answer: if(variable1 != variable2)
+
+
+// 58. How to convert a variable named "x" of type double to an integer?
+
+// int.Convert(x);
+// Convert.ToInt(x);
+// double.ConvertToInt32(x);
+// x.ToInt();
+// (int)x;
+
+// Answer: (int)x;
+
+
+// 59. Which of the following represents the correct way to declare the entry point for a C# program?
+
+// void Main(string[] args)
+// static void Main(string[] args)
+// int Main(string[] args)
+// public static void Main(string[] args)
+// static void Run(string[] args)
+
+// Answer: public static void Main(string[] args)
+
+
+// 60. What is the purpose of the using directive?
+
+// It is used to create classes
+// It is used to provide a shorter alias for a namespace
+// It is used to handle exceptions
+// It is used to define loops
+// It is used to perform arithmetic operations
+
+// Answer: It is used to provide a shorter alias for a namespace
